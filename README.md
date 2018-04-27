@@ -1,2 +1,1 @@
-# SensorMicroProcessor
-Source code for the Esduino Microprocessor to be utilized with designed hardware.
+This State Control System was designed for a hardware implementation of an Esduino measuring real time continuous analog signals. The embedded device was capable of measuring angle, current speed and weight. 
